@@ -341,12 +341,12 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats-fast.vercel.app/api?username=mihirshishulkar-SCOPEX&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800&rank_icon=github" width="54%"/>
-<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=mihirshishulkar-SCOPEX&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&cache_seconds=1800" width="41%"/>
+<img src="https://github-readme-stats-fast.vercel.app/api?username=mihirshishulkar-SCOPEX&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" width="54%"/>
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=mihirshishulkar-SCOPEX&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&cache_seconds=1800&langs_count=8" width="41%"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mihirshishulkar-SCOPEX&theme=tokyonight&hide_border=true&cache_seconds=1800" width="60%"/>
+<img src="https://streak-stats.demolab.com/?user=mihirshishulkar-SCOPEX&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" width="60%"/>
 
 </div>
 
