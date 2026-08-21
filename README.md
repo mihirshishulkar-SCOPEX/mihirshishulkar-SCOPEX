@@ -337,16 +337,28 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Profile Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats-fast.vercel.app/api?username=mihirshishulkar-SCOPEX&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" width="54%"/>
-<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=mihirshishulkar-SCOPEX&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&cache_seconds=1800&langs_count=8" width="41%"/>
+<img src="https://img.shields.io/github/followers/mihirshishulkar-SCOPEX?style=for-the-badge&logo=github&label=FOLLOWERS&color=FF6600&labelColor=0d0d0d"/>
+<img src="https://img.shields.io/github/stars/mihirshishulkar-SCOPEX/roxxs-slave?style=for-the-badge&logo=github&label=ROXX'S+SLAVE+STARS&color=FF6600&labelColor=0d0d0d"/>
+<img src="https://img.shields.io/badge/HackerOne-TOP_10%25-FF6600?style=for-the-badge&logo=hackerone&logoColor=white&labelColor=0d0d0d"/>
+<img src="https://img.shields.io/badge/Microsoft_MSRC-SPECIAL_MENTION_2026-0078D4?style=for-the-badge&logo=microsoft&logoColor=white&labelColor=0d0d0d"/>
 
-<br/>
+<br/><br/>
 
-<img src="https://streak-stats.demolab.com/?user=mihirshishulkar-SCOPEX&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" width="60%"/>
+<img src="https://img.shields.io/badge/Vulnerabilities_Found-CRITICAL+-FF0000?style=for-the-badge&labelColor=0d0d0d"/>
+<img src="https://img.shields.io/badge/Exploit_Chains_Built-18-FF6600?style=for-the-badge&labelColor=0d0d0d"/>
+<img src="https://img.shields.io/badge/Payloads_In_Arsenal-500%2B-FF6600?style=for-the-badge&labelColor=0d0d0d"/>
+<img src="https://img.shields.io/badge/Press_Coverage-Times_of_India_%7C_Indian_Express_%7C_ET-FFD700?style=for-the-badge&labelColor=0d0d0d"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/BugBase-HALL_OF_FAME-FF6600?style=for-the-badge&labelColor=0d0d0d"/>
+<img src="https://img.shields.io/badge/HackerOne-INSECTICIDE_BADGE-494649?style=for-the-badge&logo=hackerone&logoColor=white&labelColor=0d0d0d"/>
+<img src="https://img.shields.io/badge/HackerOne-GOOD_SAMARITAN-494649?style=for-the-badge&logo=hackerone&logoColor=white&labelColor=0d0d0d"/>
+<img src="https://img.shields.io/badge/Status-ACTIVELY_HUNTING-00AA00?style=for-the-badge&labelColor=0d0d0d"/>
 
 </div>
 
