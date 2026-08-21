@@ -1,176 +1,262 @@
 <div align="center">
 
-<!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Mihir%20Shishulkar&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Developer%20%7C%20Security%20Researcher%20%7C%20Builder&descAlignY=55&descSize=18"/>
+<!-- MATRIX HEADER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:003300,100:00ff00&height=200&section=header&text=%3E_%20MIHIR%20SHISHULKAR&fontSize=40&fontColor=00FF00&animation=fadeIn&fontAlignY=38&stroke=00FF00&strokeWidth=2&desc=Security%20Researcher%20%7C%20Bug%20Bounty%20Hunter%20%7C%20Ethical%20Hacker&descAlignY=60&descSize=16&descColor=00CC00"/>
 
-<!-- Animated Typing -->
+<!-- Animated Terminal Typing -->
 <a href="https://github.com/mihirshishulkar-SCOPEX">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&multiline=false&random=false&width=600&lines=Hey+there!+I%27m+Mihir+Shishulkar+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%9A%80;Security+Researcher+%F0%9F%94%90;Bug+Bounty+Hunter+%F0%9F%8E%AF;Open+Source+Contributor+%F0%9F%92%A1;Always+learning%2C+always+building+%E2%9A%A1" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2500&pause=600&color=00FF00&background=000000&center=true&vCenter=true&multiline=false&random=false&width=700&height=45&lines=%24+whoami+--+Mihir+Shishulkar;%24+cat+%2Fetc%2Fprofession+--+Ethical+Hacker;%24+nmap+-sV+--open+targets.txt;%24+sqlmap+-u+target+--dbs+--level+5;%24+python3+exploit.py+--pwn;%24+echo+%22I+don%27t+hack+systems%2C+I+secure+them%22;%24+bug_bounty+--platform+all+--severity+critical;%24+CVE+hunter+%7C+Zero-Day+researcher+%7C+OSCP;%5B+ACCESS+GRANTED+%5D+%F0%9F%94%93" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<!-- Visitor Counter + Followers -->
-<img src="https://komarev.com/ghpvc/?username=mihirshishulkar-SCOPEX&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS"/>
+<!-- Badges Row -->
+<img src="https://img.shields.io/badge/🎯_Bug_Bounty-ACTIVE-00FF00?style=for-the-badge&labelColor=000000"/>
+<img src="https://img.shields.io/badge/🔐_Security-RESEARCHER-00FF00?style=for-the-badge&labelColor=000000"/>
+<img src="https://img.shields.io/badge/💀_CTF-PLAYER-00FF00?style=for-the-badge&labelColor=000000"/>
+<img src="https://img.shields.io/badge/🛡️_Ethical-HACKER-00FF00?style=for-the-badge&labelColor=000000"/>
+
+<br/><br/>
+
+<!-- Visitor + Followers -->
+<img src="https://komarev.com/ghpvc/?username=mihirshishulkar-SCOPEX&style=for-the-badge&color=00ff00&labelColor=000000&label=PROFILE+VIEWS"/>
 &nbsp;
 <a href="https://github.com/mihirshishulkar-SCOPEX?tab=followers">
-  <img src="https://img.shields.io/github/followers/mihirshishulkar-SCOPEX?style=for-the-badge&color=236ad3&labelColor=1155ba&logo=github&label=Followers"/>
+<img src="https://img.shields.io/github/followers/mihirshishulkar-SCOPEX?style=for-the-badge&color=00ff00&labelColor=000000&logo=github&label=FOLLOWERS"/>
 </a>
 
 </div>
 
 ---
 
-<!-- About Me Section -->
-<img align="right" alt="Coding GIF" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<!-- TERMINAL BOOT SEQUENCE -->
+<div align="center">
 
-### 🧠 About Me
-
-```yaml
-name       : Mihir Shishulkar
-alias      : mihirshishulkar-SCOPEX
-location   : India 🇮🇳
-role       : Developer & Security Researcher
-focus      : Web Security | Bug Bounty | Full Stack
-mindset    : "Attacker's perspective, builder's heart"
-currently  : Hunting bugs 🎯 & building projects 🚀
-hobbies    : CTFs | Hacking | Coding | Learning
+```
+╔══════════════════════════════════════════════════════════════════╗
+║                    SYSTEM INITIALIZING...                        ║
+║  ██╗  ██╗ █████╗  ██████╗██╗  ██╗███████╗██████╗               ║
+║  ██║  ██║██╔══██╗██╔════╝██║ ██╔╝██╔════╝██╔══██╗              ║
+║  ███████║███████║██║     █████╔╝ █████╗  ██████╔╝              ║
+║  ██╔══██║██╔══██║██║     ██╔═██╗ ██╔══╝  ██╔══██╗              ║
+║  ██║  ██║██║  ██║╚██████╗██║  ██╗███████╗██║  ██║              ║
+║  ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝              ║
+║                                                                  ║
+║  [✓] Identity    : Mihir Shishulkar                             ║
+║  [✓] Role        : Security Researcher & Ethical Hacker         ║
+║  [✓] Location    : India 🇮🇳                                    ║
+║  [✓] Status      : HUNTING BUGS 24/7                            ║
+║  [✓] Clearance   : AUTHORIZED PENTESTER                        ║
+╚══════════════════════════════════════════════════════════════════╝
 ```
 
-- 🔭 Currently working on **security tools & full-stack apps**
-- 🌱 Learning **cloud security, advanced exploitation techniques**
-- 👯 Open to **collaborate on open source & security projects**
-- 💬 Ask me about **web vulnerabilities, recon, development**
-- ⚡ Fun fact: **I break things to understand how to build them better**
+</div>
+
+---
+
+<!-- ABOUT / INTEL SECTION -->
+<img align="right" width="370" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif"/>
+
+## `> cat /home/mihir/about.txt`
+
+```bash
+┌─[mihir@kali]─[~]
+└──╼ $ id
+uid=0(root) gid=0(root) groups=0(root)
+
+┌─[mihir@kali]─[~]
+└──╼ $ cat about.txt
+
+  Name     : Mihir Shishulkar
+  Age      : [REDACTED]
+  OS       : Kali Linux / Parrot OS
+  Shell    : ZSH + Oh-My-ZSH
+  Editor   : VS Code / Vim
+  Specialty: Web App Pentesting
+             Network Security
+             Reverse Engineering
+             Malware Analysis
+             Bug Bounty Hunting
+             CTF Competitions
+
+  Mission  : Find. Exploit. Report. Repeat.
+  Motto    : "In cyberspace, I am the threat."
+```
 
 <br clear="right"/>
 
 ---
 
-<!-- Tech Stack -->
+## `> ls -la /skills/`
+
 <div align="center">
 
-## 🛠️ Tech Arsenal
-
-### 💻 Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### 🌐 Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### ⚙️ Backend & Tools
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### 🔐 Security Tools
+### 🔴 Offensive Security
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2A2A2A?style=for-the-badge&logo=metasploit&logoColor=00FF00)
+![SQLMap](https://img.shields.io/badge/SQLMap-CC0000?style=for-the-badge&logo=data:image/png;base64,&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logoColor=white)
+![Nikto](https://img.shields.io/badge/Nikto-FF0000?style=for-the-badge&logoColor=white)
+![Hydra](https://img.shields.io/badge/Hydra-2A2A2A?style=for-the-badge&logoColor=00FF00)
+![John](https://img.shields.io/badge/John_The_Ripper-black?style=for-the-badge&logoColor=red)
+![Hashcat](https://img.shields.io/badge/Hashcat-2A2A2A?style=for-the-badge&logoColor=white)
+
+### 🔵 Recon & OSINT
+![Shodan](https://img.shields.io/badge/Shodan-AA0000?style=for-the-badge&logoColor=white)
+![theHarvester](https://img.shields.io/badge/theHarvester-000000?style=for-the-badge&logoColor=00FF00)
+![Subfinder](https://img.shields.io/badge/Subfinder-0052CC?style=for-the-badge&logoColor=white)
+![Amass](https://img.shields.io/badge/Amass-FF6600?style=for-the-badge&logoColor=white)
+![Nuclei](https://img.shields.io/badge/Nuclei-00AAFF?style=for-the-badge&logoColor=white)
+![ffuf](https://img.shields.io/badge/FFUF-00CC44?style=for-the-badge&logoColor=white)
+![Gobuster](https://img.shields.io/badge/Gobuster-4B0082?style=for-the-badge&logoColor=white)
+![WPScan](https://img.shields.io/badge/WPScan-464646?style=for-the-badge&logoColor=white)
+
+### 🟣 Analysis & Forensics
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white)
+![Ghidra](https://img.shields.io/badge/Ghidra-FF0000?style=for-the-badge&logoColor=white)
+![IDA Pro](https://img.shields.io/badge/IDA_Pro-4B4B4B?style=for-the-badge&logoColor=white)
+![Volatility](https://img.shields.io/badge/Volatility-006600?style=for-the-badge&logoColor=white)
+![Binwalk](https://img.shields.io/badge/Binwalk-333333?style=for-the-badge&logoColor=00FF00)
+
+### ⚙️ Programming & Dev
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00FF00)
+![Bash](https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnubash&logoColor=00FF00)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=00FF00)
+![Go](https://img.shields.io/badge/Go-000000?style=for-the-badge&logo=go&logoColor=00FF00)
+![C](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=00FF00)
+![PowerShell](https://img.shields.io/badge/PowerShell-000000?style=for-the-badge&logo=powershell&logoColor=00FF00)
+
+### 🖥️ Operating Systems
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Parrot OS](https://img.shields.io/badge/Parrot_OS-00C0A0?style=for-the-badge&logoColor=white)
+![BlackArch](https://img.shields.io/badge/BlackArch-1793D1?style=for-the-badge&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 </div>
 
 ---
 
-<!-- GitHub Stats -->
+## `> cat /etc/vulnerability/expertise.conf`
+
 <div align="center">
 
-## 📊 GitHub Stats
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mihirshishulkar-SCOPEX&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=mihirshishulkar-SCOPEX&theme=tokyonight&hide_border=true"/>
-
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mihirshishulkar-SCOPEX&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+| Vulnerability Class | Skill Level |
+|---|---|
+| 🌐 SQL Injection (SQLi) | `████████████` **Expert** |
+| 🔓 Cross-Site Scripting (XSS) | `████████████` **Expert** |
+| 🔄 SSRF / CSRF | `███████████░` **Advanced** |
+| 💉 Remote Code Execution (RCE) | `███████████░` **Advanced** |
+| 🔐 Authentication Bypass | `████████████` **Expert** |
+| 📂 File Inclusion (LFI/RFI) | `███████████░` **Advanced** |
+| 🔏 Broken Access Control | `████████████` **Expert** |
+| 🌀 Insecure Deserialization | `█████████░░░` **Intermediate** |
+| ☁️ Cloud Security (AWS/GCP) | `██████████░░` **Advanced** |
+| 🔩 Binary Exploitation | `████████░░░░` **Intermediate** |
 
 </div>
 
 ---
 
-<!-- Contribution Snake -->
+## `> ./bug_bounty_platforms.sh`
+
 <div align="center">
 
-## 🐍 Contribution Snake
+[![HackerOne](https://img.shields.io/badge/HackerOne-494649?style=for-the-badge&logo=hackerone&logoColor=white)](https://hackerone.com)
+[![Bugcrowd](https://img.shields.io/badge/Bugcrowd-F26822?style=for-the-badge&logo=bugcrowd&logoColor=white)](https://bugcrowd.com)
+[![Intigriti](https://img.shields.io/badge/Intigriti-1A1A2E?style=for-the-badge&logoColor=00FF00)](https://intigriti.com)
+[![YesWeHack](https://img.shields.io/badge/YesWeHack-1A1A2E?style=for-the-badge&logoColor=00FF00)](https://yeswehack.com)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com)
+[![HackTheBox](https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=hackthebox&logoColor=9FEF00)](https://hackthebox.com)
+
+</div>
+
+---
+
+## `> github --stats --mode=hacker`
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mihirshishulkar-SCOPEX&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true&include_all_commits=true&title_color=00FF00&icon_color=00FF00&text_color=00CC00&bg_color=000000"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=mihirshishulkar-SCOPEX&theme=dark&hide_border=true&background=000000&ring=00FF00&fire=FF4500&currStreakLabel=00FF00&sideLabels=00CC00&dates=009900&stroke=003300"/>
+
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mihirshishulkar-SCOPEX&layout=compact&theme=chartreuse-dark&hide_border=true&title_color=00FF00&text_color=00CC00&bg_color=000000&langs_count=8"/>
+
+</div>
+
+---
+
+## `> cat contribution_map.svg`
+
+<div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mihirshishulkar-SCOPEX/mihirshishulkar-SCOPEX/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mihirshishulkar-SCOPEX/mihirshishulkar-SCOPEX/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mihirshishulkar-SCOPEX/mihirshishulkar-SCOPEX/output/github-contribution-grid-snake.svg">
+  <img alt="snake animation" src="https://raw.githubusercontent.com/mihirshishulkar-SCOPEX/mihirshishulkar-SCOPEX/output/github-contribution-grid-snake.svg">
 </picture>
 
 </div>
 
 ---
 
-<!-- Activity Graph -->
+## `> ./activity_graph --theme=hacker`
+
 <div align="center">
 
-## 📈 Activity Graph
-
-[![Mihir's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mihirshishulkar-SCOPEX&theme=tokyo-night&hide_border=true&area=true)](https://github.com/mihirshishulkar-SCOPEX)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mihirshishulkar-SCOPEX&theme=react-dark&bg_color=000000&color=00FF00&line=00CC00&point=00FF00&area=true&hide_border=true)](https://github.com/mihirshishulkar-SCOPEX)
 
 </div>
 
 ---
 
-<!-- Trophies -->
+## `> trophy --display --no-frame`
+
 <div align="center">
 
-## 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=mihirshishulkar-SCOPEX&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=mihirshishulkar-SCOPEX&theme=matrix&no-frame=true&no-bg=true&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
 ---
 
-<!-- Connect Section -->
+## `> ping mihir --socials`
+
 <div align="center">
 
-## 🌐 Connect With Me
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00FF00)](https://github.com/mihirshishulkar-SCOPEX)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF00)](https://linkedin.com/in/mihirshishulkar)
+[![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=twitter&logoColor=00FF00)](https://twitter.com/mihirshishulkar)
+[![Gmail](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=00FF00)](mailto:mihirshishulkar@gmail.com)
+[![HackTheBox](https://img.shields.io/badge/HackTheBox-000000?style=for-the-badge&logo=hackthebox&logoColor=9FEF00)](https://hackthebox.com)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-000000?style=for-the-badge&logo=tryhackme&logoColor=00FF00)](https://tryhackme.com)
 
-<a href="https://github.com/mihirshishulkar-SCOPEX">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-&nbsp;
-<a href="mailto:mihirshishulkar@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://linkedin.com/in/mihirshishulkar">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://twitter.com/mihirshishulkar">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-</a>
+<br/>
 
-<br/><br/>
+```
+┌─────────────────────────────────────────────────────────┐
+│  "The quieter you become, the more you are able to hear" │
+│                                          — Kali Linux    │
+└─────────────────────────────────────────────────────────┘
+```
 
-### 💬 Random Dev Quote
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 </div>
 
 ---
 
-<!-- Footer Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
+<!-- FOOTER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:003300,100:00ff00&height=120&section=footer&animation=fadeIn&stroke=00FF00&strokeWidth=1"/>
 
 <div align="center">
-  <i>⭐ Star my repos if you find them useful! Let's connect and build something amazing together 🚀</i>
+
+```
+[ SYSTEM MESSAGE ] :: "Every system has a vulnerability. I find them before the bad guys do."
+[ STATUS        ] :: HUNTING 🎯 | LEARNING ⚡ | BUILDING 🔨
+[ CLEARANCE     ] :: AUTHORIZED ETHICAL HACKER ✅
+```
+
+**`> EOF`**
+
 </div>
