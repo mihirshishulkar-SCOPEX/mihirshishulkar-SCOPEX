@@ -335,6 +335,22 @@
 
 </div>
 
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats-fast.vercel.app/api?username=mihirshishulkar-SCOPEX&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800&rank_icon=github" width="54%"/>
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=mihirshishulkar-SCOPEX&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&cache_seconds=1800" width="41%"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mihirshishulkar-SCOPEX&theme=tokyonight&hide_border=true&cache_seconds=1800" width="60%"/>
+
+</div>
+
+
 ```
 +================================================================+
 | MSRC SPECIAL MENTION  *  HACKERONE TOP 10%  *  BUGBASE HOF    |
