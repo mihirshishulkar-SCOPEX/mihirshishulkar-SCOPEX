@@ -55,7 +55,7 @@
 ---
 
 <!-- ABOUT / INTEL SECTION -->
-<img align="right" width="370" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif"/>
+<img align="right" width="280" src="avatar.jpg" style="border-radius:10px; border: 2px solid #00FF00;"/>
 
 ## `> cat /home/mihir/about.txt`
 
@@ -93,8 +93,8 @@ uid=0(root) gid=0(root) groups=0(root)
 
 ### 🔴 Offensive Security
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-2A2A2A?style=for-the-badge&logo=metasploit&logoColor=00FF00)
-![SQLMap](https://img.shields.io/badge/SQLMap-CC0000?style=for-the-badge&logo=data:image/png;base64,&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2A2A2A?style=for-the-badge&logoColor=00FF00)
+![SQLMap](https://img.shields.io/badge/SQLMap-CC0000?style=for-the-badge&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logoColor=white)
 ![Nikto](https://img.shields.io/badge/Nikto-FF0000?style=for-the-badge&logoColor=white)
 ![Hydra](https://img.shields.io/badge/Hydra-2A2A2A?style=for-the-badge&logoColor=00FF00)
@@ -173,19 +173,6 @@ uid=0(root) gid=0(root) groups=0(root)
 
 ---
 
-## `> github --stats --mode=hacker`
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mihirshishulkar-SCOPEX&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true&include_all_commits=true&title_color=00FF00&icon_color=00FF00&text_color=00CC00&bg_color=000000"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=mihirshishulkar-SCOPEX&theme=dark&hide_border=true&background=000000&ring=00FF00&fire=FF4500&currStreakLabel=00FF00&sideLabels=00CC00&dates=009900&stroke=003300"/>
-
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mihirshishulkar-SCOPEX&layout=compact&theme=chartreuse-dark&hide_border=true&title_color=00FF00&text_color=00CC00&bg_color=000000&langs_count=8"/>
-
-</div>
-
----
-
 ## `> cat contribution_map.svg`
 
 <div align="center">
@@ -205,16 +192,6 @@ uid=0(root) gid=0(root) groups=0(root)
 <div align="center">
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mihirshishulkar-SCOPEX&theme=react-dark&bg_color=000000&color=00FF00&line=00CC00&point=00FF00&area=true&hide_border=true)](https://github.com/mihirshishulkar-SCOPEX)
-
-</div>
-
----
-
-## `> trophy --display --no-frame`
-
-<div align="center">
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=mihirshishulkar-SCOPEX&theme=matrix&no-frame=true&no-bg=true&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
