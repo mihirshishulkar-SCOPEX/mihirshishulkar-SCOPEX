@@ -305,6 +305,32 @@
 
 <br/><br/>
 
+
+---
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=14&duration=3000&pause=2500&color=FFD700&background=0D0D0D&center=true&vCenter=true&width=700&lines=CREW+FUNDS+RECEIVED...+Processing+wire+transfer;Every+bug+found+keeps+the+operation+running" alt="Wire"/>
+
+```
++============================================================+
+|              WIRE TRANSFER  —  CREW OPERATIONS             |
++============================================================+
+|  Every critical vulnerability I find takes hours of        |
+|  deep recon, exploitation research, and responsible        |
+|  disclosure work. If my research helped or inspired you,  |
+|  buying me a coffee keeps the operation running.   ☕      |
++============================================================+
+|  ACCOUNT   : shishulkarmihir@gmail.com                    |
+|  TRANSFER  : paypal.me/MihirShishulkar                    |
+|  REASON    : "Fuel for the next mission"                  |
++============================================================+
+```
+
+[![Support via PayPal](https://img.shields.io/badge/PayPal-Wire_Transfer_to_Crew-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/MihirShishulkar)
+
+</div>
+
 ```
 +================================================================+
 | MSRC SPECIAL MENTION  *  HACKERONE TOP 10%  *  BUGBASE HOF    |
