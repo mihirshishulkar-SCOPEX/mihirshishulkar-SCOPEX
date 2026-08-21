@@ -2,7 +2,11 @@
 
 <div align="center">
 
-<img width="100%" src="loading_screen.jpg"/>
+<!-- GIF from below — moved to top -->
+<img src="https://media.giphy.com/media/l4FGGafcOHmrlQxG0/giphy.gif" width="100%"/>
+
+<!-- SNAKES CONVERGE TO FORM THE NAME -->
+<img width="100%" src="snake_title.svg"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=16&duration=2000&pause=600&color=FF6600&background=0D0D0D&center=true&vCenter=true&width=900&lines=PLAYER+ONLINE+%E2%80%94+MIHIR+SHISHULKAR+%E2%80%94+MOST+WANTED;WANTED+%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90+%5BMAX%5D+%7C+WEAPON%3A+BURP+SUITE+%7C+LOCATION%3A+INDIA;Microsoft+MSRC+Special+Mention+%F0%9F%8F%86+%7C+HackerOne+Top+10%25+%E2%9A%A1;OBJECTIVE%3A+FIND+%E2%80%A2+EXPLOIT+%E2%80%A2+REPORT+%E2%80%A2+REPEAT" alt="HUD"/>
 
@@ -36,7 +40,7 @@
 +----------------------+
 ```
 
-<img src="https://media.giphy.com/media/l4FGGafcOHmrlQxG0/giphy.gif" width="160"/>
+<!-- GIF moved to top -->
 
 </td>
 

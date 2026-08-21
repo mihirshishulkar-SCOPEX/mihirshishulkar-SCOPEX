@@ -1,0 +1,156 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 160" width="900" height="160">
+  <defs>
+    <style>
+      .txt {
+        font-family: "Courier New", monospace;
+        font-weight: 900;
+        font-size: 72px;
+        fill: none;
+        stroke: #FF6600;
+        stroke-width: 2.5;
+        letter-spacing: 4px;
+      }
+      .snake { fill: none; stroke-linecap: round; stroke-linejoin: round; opacity: 0.85; }
+    </style>
+    <!-- Glow filter -->
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="glow2">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <!-- Background -->
+  <rect width="900" height="160" fill="#0d0d0d"/>
+
+  <!-- === SNAKES FROM LEFT SIDE === -->
+  <!-- Snake L1 -->
+  <path class="snake" stroke="#FF6600" stroke-width="3" filter="url(#glow)"
+    d="M -60,30 Q 0,10 60,35 Q 120,60 180,30 Q 240,5 300,32 Q 360,58 420,30 Q 460,15 490,28">
+    <animate attributeName="stroke-dasharray" from="0,800" to="800,0" dur="1.8s" begin="0s" fill="freeze"/>
+    <animate attributeName="opacity" from="0" to="0.9" dur="0.5s" begin="0s" fill="freeze"/>
+  </path>
+  <!-- Snake L2 -->
+  <path class="snake" stroke="#FF4400" stroke-width="2.5" filter="url(#glow)"
+    d="M -60,80 Q 30,55 90,82 Q 150,108 210,78 Q 270,50 330,80 Q 390,108 450,78 Q 470,68 490,72">
+    <animate attributeName="stroke-dasharray" from="0,800" to="800,0" dur="1.8s" begin="0.15s" fill="freeze"/>
+    <animate attributeName="opacity" from="0" to="0.85" dur="0.5s" begin="0.15s" fill="freeze"/>
+  </path>
+  <!-- Snake L3 -->
+  <path class="snake" stroke="#FF8800" stroke-width="2" filter="url(#glow)"
+    d="M -60,125 Q 20,100 80,128 Q 140,155 200,122 Q 260,92 320,125 Q 380,155 440,120 Q 465,108 490,115">
+    <animate attributeName="stroke-dasharray" from="0,800" to="800,0" dur="1.8s" begin="0.3s" fill="freeze"/>
+    <animate attributeName="opacity" from="0" to="0.8" dur="0.5s" begin="0.3s" fill="freeze"/>
+  </path>
+  <!-- Snake L4 -->
+  <path class="snake" stroke="#CC3300" stroke-width="1.8"
+    d="M -60,55 Q 50,30 110,58 Q 170,85 230,55 Q 290,28 350,58 Q 410,85 470,55 Q 480,50 490,52">
+    <animate attributeName="stroke-dasharray" from="0,800" to="800,0" dur="1.9s" begin="0.1s" fill="freeze"/>
+    <animate attributeName="opacity" from="0" to="0.7" dur="0.5s" begin="0.1s" fill="freeze"/>
+  </path>
+  <!-- Snake L5 -->
+  <path class="snake" stroke="#FF6600" stroke-width="1.5"
+    d="M -60,105 Q 40,80 100,108 Q 160,135 220,105 Q 280,78 340,108 Q 400,135 460,105 Q 475,98 490,100">
+    <animate attributeName="stroke-dasharray" from="0,800" to="800,0" dur="2.0s" begin="0.2s" fill="freeze"/>
+    <animate attributeName="opacity" from="0" to="0.65" dur="0.5s" begin="0.2s" fill="freeze"/>
+  </path>
+
+  <!-- === SNAKES FROM RIGHT SIDE === -->
+  <!-- Snake R1 -->
+  <path class="snake" stroke="#FF6600" stroke-width="3" filter="url(#glow)"
+    d="M 960,30 Q 900,10 840,35 Q 780,60 720,30 Q 660,5 600,32 Q 540,58 510,30 Q 505,25 490,28">
+    <animate attributeName="stroke-dasharray" from="0,800" to="800,0" dur="1.8s" begin="0s" fill="freeze"/>
+    <animate attributeName="opacity" from="0" to="0.9" dur="0.5s" begin="0s" fill="freeze"/>
+  </path>
+  <!-- Snake R2 -->
+  <path class="snake" stroke="#FF4400" stroke-width="2.5" filter="url(#glow)"
+    d="M 960,80 Q 870,55 810,82 Q 750,108 690,78 Q 630,50 570,80 Q 530,100 510,72">
+    <animate attributeName="stroke-dasharray" from="0,800" to="800,0" dur="1.8s" begin="0.15s" fill="freeze"/>
+    <animate attributeName="opacity" from="0" to="0.85" dur="0.5s" begin="0.15s" fill="freeze"/>
+  </path>
+  <!-- Snake R3 -->
+  <path class="snake" stroke="#FF8800" stroke-width="2" filter="url(#glow)"
+    d="M 960,125 Q 880,100 820,128 Q 760,155 700,122 Q 640,92 580,125 Q 535,148 510,115">
+    <animate attributeName="stroke-dasharray" from="0,800" to="800,0" dur="1.8s" begin="0.3s" fill="freeze"/>
+    <animate attributeName="opacity" from="0" to="0.8" dur="0.5s" begin="0.3s" fill="freeze"/>
+  </path>
+  <!-- Snake R4 -->
+  <path class="snake" stroke="#CC3300" stroke-width="1.8"
+    d="M 960,55 Q 850,30 790,58 Q 730,85 670,55 Q 610,28 550,58 Q 520,72 510,52">
+    <animate attributeName="stroke-dasharray" from="0,800" to="800,0" dur="1.9s" begin="0.1s" fill="freeze"/>
+    <animate attributeName="opacity" from="0" to="0.7" dur="0.5s" begin="0.1s" fill="freeze"/>
+  </path>
+  <!-- Snake R5 -->
+  <path class="snake" stroke="#FF6600" stroke-width="1.5"
+    d="M 960,105 Q 860,80 800,108 Q 740,135 680,105 Q 620,78 560,108 Q 525,125 510,100">
+    <animate attributeName="stroke-dasharray" from="0,800" to="800,0" dur="2.0s" begin="0.2s" fill="freeze"/>
+    <animate attributeName="opacity" from="0" to="0.65" dur="0.5s" begin="0.2s" fill="freeze"/>
+  </path>
+
+  <!-- === TEXT DRAWN BY SNAKES === -->
+  <!-- Shadow text first -->
+  <text x="450" y="115" text-anchor="middle"
+    font-family="'Courier New', monospace" font-weight="900" font-size="68px"
+    fill="none" stroke="#8B3000" stroke-width="6" letter-spacing="3px" opacity="0.5">
+    MIHIR SHISHULKAR
+    <animate attributeName="opacity" from="0" to="0.5" dur="0.3s" begin="1.6s" fill="freeze"/>
+  </text>
+
+  <!-- Main glowing text revealed as snakes arrive -->
+  <text x="450" y="115" text-anchor="middle"
+    font-family="'Courier New', monospace" font-weight="900" font-size="68px"
+    fill="none" stroke="#FF6600" stroke-width="2.5" letter-spacing="3px"
+    filter="url(#glow2)">
+    MIHIR SHISHULKAR
+    <animate attributeName="stroke-dasharray" from="0,2000" to="2000,0" dur="1.2s" begin="1.5s" fill="freeze"/>
+    <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="1.5s" fill="freeze"/>
+  </text>
+
+  <!-- White highlight pass -->
+  <text x="450" y="115" text-anchor="middle"
+    font-family="'Courier New', monospace" font-weight="900" font-size="68px"
+    fill="none" stroke="#FFFFFF" stroke-width="0.8" letter-spacing="3px" opacity="0">
+    MIHIR SHISHULKAR
+    <animate attributeName="opacity" from="0" to="0.4" dur="0.4s" begin="2.4s" fill="freeze"/>
+  </text>
+
+  <!-- Snake head dots converging to text (L side) -->
+  <circle cx="-60" cy="80" r="5" fill="#FF6600" filter="url(#glow)">
+    <animate attributeName="cx" from="-60" to="490" dur="1.7s" begin="0s" fill="freeze"/>
+    <animate attributeName="cy" from="80" to="80" dur="1.7s" begin="0s" fill="freeze"/>
+    <animate attributeName="opacity" from="1" to="0" dur="0.3s" begin="1.6s" fill="freeze"/>
+  </circle>
+  <circle cx="-60" cy="30" r="4" fill="#FF4400" filter="url(#glow)">
+    <animate attributeName="cx" from="-60" to="490" dur="1.7s" begin="0.1s" fill="freeze"/>
+    <animate attributeName="opacity" from="1" to="0" dur="0.3s" begin="1.7s" fill="freeze"/>
+  </circle>
+  <circle cx="-60" cy="125" r="4" fill="#FF8800" filter="url(#glow)">
+    <animate attributeName="cx" from="-60" to="490" dur="1.7s" begin="0.2s" fill="freeze"/>
+    <animate attributeName="opacity" from="1" to="0" dur="0.3s" begin="1.8s" fill="freeze"/>
+  </circle>
+
+  <!-- Snake head dots from R side -->
+  <circle cx="960" cy="80" r="5" fill="#FF6600" filter="url(#glow)">
+    <animate attributeName="cx" from="960" to="510" dur="1.7s" begin="0s" fill="freeze"/>
+    <animate attributeName="opacity" from="1" to="0" dur="0.3s" begin="1.6s" fill="freeze"/>
+  </circle>
+  <circle cx="960" cy="30" r="4" fill="#FF4400" filter="url(#glow)">
+    <animate attributeName="cx" from="960" to="510" dur="1.7s" begin="0.1s" fill="freeze"/>
+    <animate attributeName="opacity" from="1" to="0" dur="0.3s" begin="1.7s" fill="freeze"/>
+  </circle>
+  <circle cx="960" cy="125" r="4" fill="#FF8800" filter="url(#glow)">
+    <animate attributeName="cx" from="960" to="510" dur="1.7s" begin="0.2s" fill="freeze"/>
+    <animate attributeName="opacity" from="1" to="0" dur="0.3s" begin="1.8s" fill="freeze"/>
+  </circle>
+
+  <!-- Subtle bottom tagline -->
+  <text x="450" y="148" text-anchor="middle"
+    font-family="'Courier New', monospace" font-size="11px"
+    fill="#FF6600" letter-spacing="6px" opacity="0">
+    ELITE VULNERABILITY RESEARCHER
+    <animate attributeName="opacity" from="0" to="0.7" dur="0.8s" begin="2.5s" fill="freeze"/>
+  </text>
+</svg>
