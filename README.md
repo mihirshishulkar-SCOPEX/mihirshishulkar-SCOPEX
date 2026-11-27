@@ -6,7 +6,6 @@
 
 <img width="100%" src="snake_title.svg"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=16&duration=2000&pause=600&color=FF6600&background=0D0D0D&center=true&vCenter=true&width=900&lines=PLAYER+ONLINE+%E2%80%94+MIHIR+SHISHULKAR+%E2%80%94+MOST+WANTED;WANTED+%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90+%5BMAX%5D+%7C+WEAPON%3A+BURP+SUITE+%7C+LOCATION%3A+INDIA;Microsoft+MSRC+Special+Mention+2026+%F0%9F%8F%86+%7C+HackerOne+Top+10%25+%E2%9A%A1;4x+Ghost+CMS+CVEs+%7C+ICAI+Critical+RCE+%7C+BugBase+HOF;SCOPEX+METHOD+%7C+FIND+%E2%80%A2+CHAIN+%E2%80%A2+EXPLOIT+%E2%80%A2+REPORT+%E2%80%A2+REPEAT" alt="HUD"/>
 
 </div>
 
@@ -114,21 +113,8 @@
 
 ---
 
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=18&duration=2500&pause=800&color=FFD700&background=0D0D0D&center=true&vCenter=true&width=900&lines=%E2%96%88+MISSION+PASSED+%2B+REWARD+%E2%96%88+Microsoft+MSRC+Special+Mention+2026;%E2%96%88+MISSION+PASSED+%2B+REWARD+%E2%96%88+HackerOne+Top+10%25+Advance+Hacker;%E2%96%88+MISSION+PASSED+%2B+REWARD+%E2%96%88+ICAI+Critical+RCE+%2B+Superadmin+Disclosed;%E2%96%88+MISSION+PASSED+%2B+REWARD+%E2%96%88+BugBase+Hall+of+Fame;%E2%96%88+CVE+ASSIGNED+%2B+BOUNTY+%E2%96%88+Ghost+CMS+4x+Stored+XSS+%E2%80%94+2026;%E2%96%88+MISSION+PASSED+%2B+REWARD+%E2%96%88+National+Press+Coverage+x3" alt="Mission Passed"/>
-
-</div>
-
 ---
 
----
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=16&duration=2500&pause=1000&color=FF0000&background=0D0D0D&center=true&vCenter=true&width=900&lines=%E2%96%88+CVE+ASSIGNED+%2B+BOUNTY+%E2%96%88+Ghost+CMS+Stored+XSS+via+SVG+Uploads+%E2%80%94+CVE-2026-105649;%E2%96%88+CVE+ASSIGNED+%2B+BOUNTY+%E2%96%88+Ghost+CMS+Stored+XSS+via+SVG+Content+Imports+%E2%80%94+CVE-2026-105644;%E2%96%88+CVE+ASSIGNED+%2B+BOUNTY+%E2%96%88+Ghost+CMS+Stored+XSS+via+Embed+Cards+%E2%80%94+CVE-2026-105643;%E2%96%88+CVE+ASSIGNED+%2B+BOUNTY+%E2%96%88+Ghost+CMS+Stored+XSS+via+Bookmark+Cards+%E2%80%94+CVE-2026-105651" alt="CVE Board"/>
-
-</div>
 
 <table width="100%"><tr>
 
@@ -281,8 +267,6 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=14&duration=2500&pause=2000&color=FF6600&background=0D0D0D&center=true&vCenter=true&width=700&lines=WEAPON+SELECTED%3A+BURP+SUITE+PRO;SWITCHING+TO%3A+METASPLOIT;LOADING%3A+NUCLEI+TEMPLATES...;RECON+MODE%3A+SUBFINDER+ACTIVE" alt="Weapon Select"/>
-
 **MELEE — SCRIPTING**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -408,8 +392,6 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=14&duration=3500&pause=2000&color=FFD700&background=0D0D0D&center=true&vCenter=true&width=700&lines=Calling...+LinkedIn+HOF+Microsoft+MSRC;Calling...+HackerOne+mihir1011;Calling...+Bugcrowd+mihir2004;Calling...+MSRC+Special+Mention+2026" alt="Phone"/>
-
 <a href="https://www.linkedin.com/in/mihir-shishulkar-hof-microsoft-msrc-259978239/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://hackerone.com/mihir1011"><img src="https://img.shields.io/badge/HackerOne-494649?style=for-the-badge&logo=hackerone&logoColor=white"/></a>
 <a href="https://bugcrowd.com/h/mihir2004"><img src="https://img.shields.io/badge/Bugcrowd-F26822?style=for-the-badge&logo=bugcrowd&logoColor=white"/></a>
@@ -424,8 +406,6 @@
 ---
 
 <div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=14&duration=3000&pause=2500&color=FFD700&background=0D0D0D&center=true&vCenter=true&width=700&lines=CREW+FUNDS+RECEIVED...+Processing+wire+transfer;Every+bug+found+keeps+the+operation+running" alt="Wire"/>
 
 ```
 +============================================================+
