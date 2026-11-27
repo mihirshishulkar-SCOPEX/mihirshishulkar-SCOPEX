@@ -2,10 +2,8 @@
 
 <div align="center">
 
-<!-- GIF from below — moved to top -->
-<img src="https://media.giphy.com/media/l4FGGafcOHmrlQxG0/giphy.gif" width="100%"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0d0d0d,FF4400,FF6600&height=200&section=header&text=MIHIR%20SHISHULKAR&fontSize=48&fontColor=FF6600&animation=fadeIn&fontAlignY=38&desc=Security%20Researcher%20%7C%20Bug%20Bounty%20Hunter&descAlignY=58&descColor=FFD700&descSize=18" />
 
-<!-- SNAKES CONVERGE TO FORM THE NAME -->
 <img width="100%" src="snake_title.svg"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=16&duration=2000&pause=600&color=FF6600&background=0D0D0D&center=true&vCenter=true&width=900&lines=PLAYER+ONLINE+%E2%80%94+MIHIR+SHISHULKAR+%E2%80%94+MOST+WANTED;WANTED+%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90+%5BMAX%5D+%7C+WEAPON%3A+BURP+SUITE+%7C+LOCATION%3A+INDIA;Microsoft+MSRC+Special+Mention+%F0%9F%8F%86+%7C+HackerOne+Top+10%25+%E2%9A%A1;OBJECTIVE%3A+FIND+%E2%80%A2+EXPLOIT+%E2%80%A2+REPORT+%E2%80%A2+REPEAT" alt="HUD"/>
@@ -39,8 +37,6 @@
 | WEAPON : BURP SUITE  |
 +----------------------+
 ```
-
-<!-- GIF moved to top -->
 
 </td>
 
@@ -278,6 +274,29 @@
 
 ---
 
+## 📊 STATS HUD
+
+<div align="center">
+
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=mihirshishulkar-SCOPEX&show_icons=true&theme=radical&hide_border=true&bg_color=0D0D0D&title_color=FF6600&icon_color=FFD700&text_color=CCCCCC&rank_icon=github" />
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mihirshishulkar-SCOPEX&layout=compact&theme=radical&hide_border=true&bg_color=0D0D0D&title_color=FF6600&text_color=CCCCCC&langs_count=6" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=mihirshishulkar-SCOPEX&theme=radical&hide_border=true&background=0D0D0D&stroke=FF6600&ring=FF6600&fire=FFD700&currStreakLabel=FFD700&sideLabels=CCCCCC&dates=CCCCCC" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=mihirshishulkar-SCOPEX&theme=radical&no-frame=true&row=1&column=7&margin-w=4" />
+
+</div>
+
+---
+
 <div align="center">
 
 **TERRITORY — CONTRIBUTION SNAKE**
@@ -309,6 +328,7 @@
 
 <br/><br/>
 
+</div>
 
 ---
 
@@ -337,12 +357,9 @@
 
 ---
 
-## 📊 Profile Stats
-
 <div align="center">
 
 <img src="https://img.shields.io/github/followers/mihirshishulkar-SCOPEX?style=for-the-badge&logo=github&label=FOLLOWERS&color=FF6600&labelColor=0d0d0d"/>
-<img src="https://img.shields.io/github/stars/mihirshishulkar-SCOPEX/roxxs-slave?style=for-the-badge&logo=github&label=ROXX'S+SLAVE+STARS&color=FF6600&labelColor=0d0d0d"/>
 <img src="https://img.shields.io/badge/HackerOne-TOP_10%25-FF6600?style=for-the-badge&logo=hackerone&logoColor=white&labelColor=0d0d0d"/>
 <img src="https://img.shields.io/badge/Microsoft_MSRC-SPECIAL_MENTION_2026-0078D4?style=for-the-badge&logo=microsoft&logoColor=white&labelColor=0d0d0d"/>
 
@@ -360,8 +377,7 @@
 <img src="https://img.shields.io/badge/HackerOne-GOOD_SAMARITAN-494649?style=for-the-badge&logo=hackerone&logoColor=white&labelColor=0d0d0d"/>
 <img src="https://img.shields.io/badge/Status-ACTIVELY_HUNTING-00AA00?style=for-the-badge&labelColor=0d0d0d"/>
 
-</div>
-
+<br/><br/>
 
 ```
 +================================================================+
@@ -371,5 +387,7 @@
 |   ScopeX exists to widen it."  -- Mihir Shishulkar            |
 +================================================================+
 ```
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0d0d0d,FF4400,FF6600&height=120&section=footer" />
 
 </div>
