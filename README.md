@@ -6,7 +6,7 @@
 
 <img width="100%" src="snake_title.svg"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=16&duration=2000&pause=600&color=FF6600&background=0D0D0D&center=true&vCenter=true&width=900&lines=PLAYER+ONLINE+%E2%80%94+MIHIR+SHISHULKAR+%E2%80%94+MOST+WANTED;WANTED+%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90+%5BMAX%5D+%7C+WEAPON%3A+BURP+SUITE+%7C+LOCATION%3A+INDIA;Microsoft+MSRC+Special+Mention+%F0%9F%8F%86+%7C+HackerOne+Top+10%25+%E2%9A%A1;OBJECTIVE%3A+FIND+%E2%80%A2+EXPLOIT+%E2%80%A2+REPORT+%E2%80%A2+REPEAT" alt="HUD"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=16&duration=2000&pause=600&color=FF6600&background=0D0D0D&center=true&vCenter=true&width=900&lines=PLAYER+ONLINE+%E2%80%94+MIHIR+SHISHULKAR+%E2%80%94+MOST+WANTED;WANTED+%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90+%5BMAX%5D+%7C+WEAPON%3A+BURP+SUITE+%7C+LOCATION%3A+INDIA;Microsoft+MSRC+Special+Mention+2026+%F0%9F%8F%86+%7C+HackerOne+Top+10%25+%E2%9A%A1;4x+Ghost+CMS+CVEs+%7C+ICAI+Critical+RCE+%7C+BugBase+HOF;SCOPEX+METHOD+%7C+FIND+%E2%80%A2+CHAIN+%E2%80%A2+EXPLOIT+%E2%80%A2+REPORT+%E2%80%A2+REPEAT" alt="HUD"/>
 
 </div>
 
@@ -55,11 +55,14 @@
 |  >> HackerOne - Advance Top 10% ⚡ |
 |  >> BugBase - Hall of Fame      🥇 |
 |  >> ICAI - Critical RCE Found   🔴 |
+|  >> Ghost CMS - 4x CVEs Assigned💀 |
+|  >> GHSA-8575-cr6v-7jh4 Advisory🔐 |
 |  >> Times of India Coverage     📰 |
 |  >> Indian Express Coverage     📰 |
 |  >> Economic Times Coverage     📰 |
 +------------------------------------+
 | METHOD : SCOPEX                    |
+| CVEs   : 4 (Ghost CMS 2026)        |
 | STATUS : ACTIVELY HUNTING  [ON]    |
 +------------------------------------+
 ```
@@ -113,9 +116,97 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=18&duration=2500&pause=800&color=FFD700&background=0D0D0D&center=true&vCenter=true&width=900&lines=%E2%96%88+MISSION+PASSED+%2B+REWARD+%E2%96%88+Microsoft+MSRC+Special+Mention+2026;%E2%96%88+MISSION+PASSED+%2B+REWARD+%E2%96%88+HackerOne+Top+10%25+Advance+Hacker;%E2%96%88+MISSION+PASSED+%2B+REWARD+%E2%96%88+ICAI+Critical+RCE+%2B+Superadmin+Disclosed;%E2%96%88+MISSION+PASSED+%2B+REWARD+%E2%96%88+BugBase+Hall+of+Fame;%E2%96%88+MISSION+PASSED+%2B+REWARD+%E2%96%88+National+Press+Coverage+x3" alt="Mission Passed"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=18&duration=2500&pause=800&color=FFD700&background=0D0D0D&center=true&vCenter=true&width=900&lines=%E2%96%88+MISSION+PASSED+%2B+REWARD+%E2%96%88+Microsoft+MSRC+Special+Mention+2026;%E2%96%88+MISSION+PASSED+%2B+REWARD+%E2%96%88+HackerOne+Top+10%25+Advance+Hacker;%E2%96%88+MISSION+PASSED+%2B+REWARD+%E2%96%88+ICAI+Critical+RCE+%2B+Superadmin+Disclosed;%E2%96%88+MISSION+PASSED+%2B+REWARD+%E2%96%88+BugBase+Hall+of+Fame;%E2%96%88+CVE+ASSIGNED+%2B+BOUNTY+%E2%96%88+Ghost+CMS+4x+Stored+XSS+%E2%80%94+2026;%E2%96%88+MISSION+PASSED+%2B+REWARD+%E2%96%88+National+Press+Coverage+x3" alt="Mission Passed"/>
 
 </div>
+
+---
+
+---
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=16&duration=2500&pause=1000&color=FF0000&background=0D0D0D&center=true&vCenter=true&width=900&lines=%E2%96%88+CVE+ASSIGNED+%2B+BOUNTY+%E2%96%88+Ghost+CMS+Stored+XSS+via+SVG+Uploads+%E2%80%94+CVE-2026-105649;%E2%96%88+CVE+ASSIGNED+%2B+BOUNTY+%E2%96%88+Ghost+CMS+Stored+XSS+via+SVG+Content+Imports+%E2%80%94+CVE-2026-105644;%E2%96%88+CVE+ASSIGNED+%2B+BOUNTY+%E2%96%88+Ghost+CMS+Stored+XSS+via+Embed+Cards+%E2%80%94+CVE-2026-105643;%E2%96%88+CVE+ASSIGNED+%2B+BOUNTY+%E2%96%88+Ghost+CMS+Stored+XSS+via+Bookmark+Cards+%E2%80%94+CVE-2026-105651" alt="CVE Board"/>
+
+</div>
+
+<table width="100%"><tr>
+
+<td width="50%" valign="top" align="center">
+
+```
++=====================================+
+|          CVE KILL BOARD             |
++=====================================+
+| TARGET  : Ghost CMS (TryGhost)      |
+| TYPE    : Stored XSS (Multiple)     |
+| IMPACT  : High — CVSS 7.3           |
+| VECTOR  : SVG Upload Bypass         |
++-------------------------------------+
+| CVE-2026-105649  [HIGH  CVSS 7.3]   |
+|  Stored XSS via SVG Uploads         |
+|  Bypassing Sanitization             |
+|  Fixed: Ghost v6.65.0               |
++-------------------------------------+
+| CVE-2026-105644  [MED   CVSS 6.8]   |
+|  Stored XSS via SVG Files           |
+|  in Content Imports                 |
+|  Fixed: Ghost v6.67.0               |
++-------------------------------------+
+| CVE-2026-105643  [HIGH]             |
+|  Stored XSS via Embed Card          |
+|  Previews                           |
+|  Fixed: Ghost v6.67.0               |
++-------------------------------------+
+| CVE-2026-105651  [HIGH  CVSS 7.3]   |
+|  Stored XSS via Bookmark            |
+|  Card Images                        |
+|  Fixed: Ghost v6.64.0               |
++-------------------------------------+
+| ADVISORY : GHSA-8575-cr6v-7jh4      |
+| STATUS   : PATCHED  [OK]            |
++=====================================+
+```
+
+</td>
+
+<td width="50%" valign="top" align="center">
+
+```
++=====================================+
+|       OPEN SOURCE ARSENAL           |
++=====================================+
+| roxxs-slave                         |
+|  Autonomous Bug Bounty Intelligence |
+|  v888 OMEGA NUCLEAR — 3373 Lines    |
+|  One-command setup & deploy         |
+|  Stars: ★★★ | Lang: Python/Bash     |
++-------------------------------------+
+| roxx-autokit                        |
+|  Self-Updating Security Arsenal     |
+|  33 Tools · 8 Parallel Workers      |
+|  30-min auto-sync to GitHub         |
+|  Stars: ★★ | Lang: Go               |
++-------------------------------------+
+| roxx-antigravity                    |
+|  AI Bug Bounty Persona CLI          |
+|  Devilish Edition v666              |
+|  25-Phase Autonomous Hunt Engine    |
+|  Stars: ★★ | Lang: Python           |
++-------------------------------------+
+| scopexmoney (org)                   |
+|  ScopeX Methodology Repository      |
+|  Bug Bounty Framework               |
++=====================================+
+```
+
+[![roxxs-slave](https://img.shields.io/badge/roxxs--slave-v888_OMEGA-FF0000?style=flat-square&logo=github&logoColor=white)](https://github.com/mihirshishulkar-SCOPEX/roxxs-slave)
+[![roxx-autokit](https://img.shields.io/badge/roxx--autokit-33_tools-FF6600?style=flat-square&logo=github&logoColor=white)](https://github.com/mihirshishulkar-SCOPEX/roxx-autokit)
+[![roxx-antigravity](https://img.shields.io/badge/roxx--antigravity-v666-FFD700?style=flat-square&logo=github&logoColor=black)](https://github.com/mihirshishulkar-SCOPEX/roxx-antigravity)
+
+</td>
+
+</tr></table>
 
 ---
 
@@ -366,9 +457,17 @@
 <br/><br/>
 
 <img src="https://img.shields.io/badge/Vulnerabilities_Found-CRITICAL+-FF0000?style=for-the-badge&labelColor=0d0d0d"/>
+<img src="https://img.shields.io/badge/CVEs_Assigned-4_(Ghost_CMS_2026)-FF0000?style=for-the-badge&labelColor=0d0d0d"/>
 <img src="https://img.shields.io/badge/Exploit_Chains_Built-18-FF6600?style=for-the-badge&labelColor=0d0d0d"/>
 <img src="https://img.shields.io/badge/Payloads_In_Arsenal-500%2B-FF6600?style=for-the-badge&labelColor=0d0d0d"/>
 <img src="https://img.shields.io/badge/Press_Coverage-Times_of_India_%7C_Indian_Express_%7C_ET-FFD700?style=for-the-badge&labelColor=0d0d0d"/>
+
+<br/><br/>
+
+[![CVE-2026-105649](https://img.shields.io/badge/CVE--2026--105649-Ghost_XSS_SVG_Upload-FF0000?style=flat-square&labelColor=0d0d0d)](https://advisories.gitlab.com/npm/ghost/CVE-2026-105649/)
+[![CVE-2026-105644](https://img.shields.io/badge/CVE--2026--105644-Ghost_XSS_SVG_Import-FF0000?style=flat-square&labelColor=0d0d0d)](https://advisories.gitlab.com/npm/ghost/CVE-2026-105644/)
+[![CVE-2026-105643](https://img.shields.io/badge/CVE--2026--105643-Ghost_XSS_Embed_Card-FF6600?style=flat-square&labelColor=0d0d0d)](https://vulners.com/vulnrichment/VULNRICHMENT:CVE-2026-105643)
+[![CVE-2026-105651](https://img.shields.io/badge/CVE--2026--105651-Ghost_XSS_Bookmark-FF6600?style=flat-square&labelColor=0d0d0d)](https://advisories.gitlab.com/npm/ghost/CVE-2026-105651/)
 
 <br/><br/>
 
